@@ -1,3 +1,3 @@
 # wholesaler
 Scalable wholesale app for small businesses that offers additonal functionality over the mainstream platforms.
-Allows for fast setup and easy customization. 
+Simplicity is at the core and allows for fast setup and easy customization. 
